@@ -25,38 +25,74 @@ Complete the Puzzle: Keep placing the pieces until the image is complete and mat
 ![Screenshot 2024-06-22 091914](https://github.com/Raj-Agill21/puzzle-game/assets/114497698/eaf80786-4946-442a-b7e8-eafe32518f2c)
 
 ![Screenshot 2024-06-22 091918](https://github.com/Raj-Agill21/puzzle-game/assets/114497698/d5547b5f-b36b-49f7-a22a-35ad6eee3c23)
+Here’s a concise and interactive version of the `README.md` file for your **Sliding Puzzle Game** built with Pygame:
 
-## How to run 
+---
 
-### 1.Setup Python and Pygame:
-Ensure you have Python installed on your computer. You can download it from python.org.
+# 🧩 Sliding Puzzle Game
 
-Install Pygame using pip if you haven't already: pip install pygame
+A fun and interactive sliding puzzle game built using **Python** and **Pygame**. Choose an image, solve the puzzle by rearranging the shuffled tiles, and unlock new levels as you go!
 
-### 2.Download and Organize Images:
-Make sure you have the image files (level1_image1.jpg, level1_image2.jpg, etc.) in the same directory as your Python script.
+![screenshot](https://github.com/mmanikandan281/sliding-puzzle-game/assets/demo.gif)
 
-Ensure the images are named correctly and are accessible to the script.
+---
 
-### 3.Run the Script:
-Open your command line or terminal.
+## 🎮 Features
 
-Navigate to the directory where your Python script (main.py) is located.
+* Multiple levels (3x3 up to 7x7)
+* Choose your puzzle image
+* Visual tile shuffling and drag-to-solve
+* Confetti celebration on success
+* Smooth and scalable UI
 
-Run the script using Python: python main.py
+---
 
-### 4.Gameplay:
-The game will start by displaying all the images for each level.
+## 🚀 How to Run
 
-Click on an image to select it and proceed to play that level.
+1. **Install Pygame**
 
-Complete each level by solving the sliding puzzle.
+   ```bash
+   pip install pygame
+   ```
 
-After completing a level, a message will display indicating the completion of the level.
+2. **Clone this repo**
 
-Once all levels are completed, a final congratulations message will appear.
+   ```bash
+   git clone https://github.com/yourusername/sliding-puzzle-game
+   cd sliding-puzzle-game
+   ```
 
-### 5.Interaction:
-Use the mouse to click and drag tiles in the puzzle.
+
+3. **Run the game**
+
+   ```bash
+   python main.py
+   ```
+
+
+
+---
+
+## 🧠 Gameplay
+
+* Click on an image to select your puzzle.
+* Tiles are shuffled—click adjacent tiles to move them.
+* Solve the puzzle to move to the next level!
+
+---
+
+## 📸 Preview
+
+> *(Add your own screen recording or screenshots here)*
+> ![preview](https://github.com/yourusername/sliding-puzzle-game/assets/sample.png)
+
+---
+
+## 📝 License
+
+This project is licensed under the [MIT License](LICENSE).
+
+---
+
 
 Follow on-screen instructions and prompts for level selection and game progression.
