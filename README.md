@@ -83,8 +83,8 @@ A fun and interactive sliding puzzle game built using **Python** and **Pygame**.
 
 ## 📸 Preview
 
-> *(Add your own screen recording or screenshots here)*
-> ![preview](https://github.com/yourusername/sliding-puzzle-game/assets/sample.png)
+> ![Screenshot (100)](https://github.com/user-attachments/assets/f2a127fe-1323-46f8-8e29-b2d798589f29)
+
 
 ---
 
