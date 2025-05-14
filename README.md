@@ -1,4 +1,4 @@
-# 🧩 Sliding Puzzle Game
+# 🧩 Puzzle Game
 ## Overview
 Welcome to the Drag-and-Drop Picture Puzzle, a fun and engaging game designed to challenge your problem-solving skills and entertain you with beautiful images. Choose your favorite picture and piece it back together in a classic puzzle format. Perfect for all ages, this game offers a relaxing and enjoyable way to spend your time.
 
@@ -41,7 +41,7 @@ Interactive and Intuitive Design: User-friendly interface with smooth animations
 2. **Clone this repo**
 
    ```bash
-   git clone https://github.com/yourusername/sliding-puzzle-game
+   https://github.com/mmanikandan281/Puzzle-Game.git
    cd sliding-puzzle-game
    ```
 
