@@ -15,18 +15,6 @@ Set the Difficulty: Decide on the grid size (e.g., 3x3, 4x4, 5x5) based on your 
 Start Solving: Drag and drop the puzzle pieces onto the grid. Use the reference image on the side to help you figure out where each piece belongs.
 Complete the Puzzle: Keep placing the pieces until the image is complete and matches the reference picture.
 
-## Output
-![Screenshot 2024-06-22 091207](https://github.com/Raj-Agill21/puzzle-game/assets/114497698/b91fc568-189f-4d5e-b494-41d851d6b904)
-
-![Screenshot 2024-06-22 091211](https://github.com/Raj-Agill21/puzzle-game/assets/114497698/fe4cb2cf-e85f-42fc-97f3-3dbd15b053c2)
-
-![Screenshot 2024-06-22 091222](https://github.com/Raj-Agill21/puzzle-game/assets/114497698/ef056fea-1224-4772-8876-5122d27234b1)
-
-![Screenshot 2024-06-22 091914](https://github.com/Raj-Agill21/puzzle-game/assets/114497698/eaf80786-4946-442a-b7e8-eafe32518f2c)
-
-![Screenshot 2024-06-22 091918](https://github.com/Raj-Agill21/puzzle-game/assets/114497698/d5547b5f-b36b-49f7-a22a-35ad6eee3c23)
-Here’s a concise and interactive version of the `README.md` file for your **Sliding Puzzle Game** built with Pygame:
-
 ---
 
 # 🧩 Sliding Puzzle Game
