@@ -9,8 +9,6 @@ Set the Difficulty: Decide on the grid size (e.g., 3x3, 4x4, 5x5) based on your 
 Start Solving: Drag and drop the puzzle pieces onto the grid. Use the reference image on the side to help you figure out where each piece belongs.
 Complete the Puzzle: Keep placing the pieces until the image is complete and matches the reference picture.
 
----
-
 
 ![screenshot](https://github.com/mmanikandan281/sliding-puzzle-game/assets/demo.gif)
 
