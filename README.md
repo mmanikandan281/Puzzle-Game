@@ -2,12 +2,6 @@
 ## Overview
 Welcome to the Drag-and-Drop Picture Puzzle, a fun and engaging game designed to challenge your problem-solving skills and entertain you with beautiful images. Choose your favorite picture and piece it back together in a classic puzzle format. Perfect for all ages, this game offers a relaxing and enjoyable way to spend your time.
 
-## Features
-Custom Image Selection: Pick any image of your choice to create a unique puzzle experience.
-Drag-and-Drop Interface: Easily drag and drop the pieces to their correct positions on the grid.
-Reference Image: A reference copy of the original image is provided on the side to help guide you as you solve the puzzle.
-Adjustable Difficulty: Choose from different grid sizes to increase or decrease the difficulty level.
-Interactive and Intuitive Design: User-friendly interface with smooth animations for a seamless puzzle-solving experience.
 
 ## How to Play
 Select Your Image: Start by choosing an image from your device or select one from our gallery.
@@ -17,7 +11,6 @@ Complete the Puzzle: Keep placing the pieces until the image is complete and mat
 
 ---
 
-A fun and interactive sliding puzzle game built using **Python** and **Pygame**. Choose an image, solve the puzzle by rearranging the shuffled tiles, and unlock new levels as you go!
 
 ![screenshot](https://github.com/mmanikandan281/sliding-puzzle-game/assets/demo.gif)
 
@@ -30,6 +23,12 @@ A fun and interactive sliding puzzle game built using **Python** and **Pygame**.
 * Visual tile shuffling and drag-to-solve
 * Confetti celebration on success
 * Smooth and scalable UI
+* Custom Image Selection: Pick any image of your choice to create a unique puzzle experience.
+Drag-and-Drop Interface: Easily drag and drop the pieces to their correct positions on the grid.
+Reference Image: A reference copy of the original image is provided on the side to help guide you as you solve the puzzle.
+Adjustable Difficulty: Choose from different grid sizes to increase or decrease the difficulty level.
+Interactive and Intuitive Design: User-friendly interface with smooth animations for a seamless puzzle-solving experience.
+
 
 ---
 
