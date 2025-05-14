@@ -1,4 +1,4 @@
-# Puzzle-Game
+# 🧩 Sliding Puzzle Game
 ## Overview
 Welcome to the Drag-and-Drop Picture Puzzle, a fun and engaging game designed to challenge your problem-solving skills and entertain you with beautiful images. Choose your favorite picture and piece it back together in a classic puzzle format. Perfect for all ages, this game offers a relaxing and enjoyable way to spend your time.
 
@@ -16,8 +16,6 @@ Start Solving: Drag and drop the puzzle pieces onto the grid. Use the reference 
 Complete the Puzzle: Keep placing the pieces until the image is complete and matches the reference picture.
 
 ---
-
-# 🧩 Sliding Puzzle Game
 
 A fun and interactive sliding puzzle game built using **Python** and **Pygame**. Choose an image, solve the puzzle by rearranging the shuffled tiles, and unlock new levels as you go!
 
