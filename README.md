@@ -42,7 +42,7 @@ Interactive and Intuitive Design: User-friendly interface with smooth animations
 
    ```bash
    https://github.com/mmanikandan281/Puzzle-Game.git
-   cd sliding-puzzle-game
+   cd puzzle-game
    ```
 
 
