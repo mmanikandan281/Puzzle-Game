@@ -83,16 +83,18 @@ A fun and interactive sliding puzzle game built using **Python** and **Pygame**.
 
 ## 📸 Preview
 
+![Screenshot 2024-06-22 091207](https://github.com/Raj-Agill21/puzzle-game/assets/114497698/b91fc568-189f-4d5e-b494-41d851d6b904)
+
+![Screenshot 2024-06-22 091211](https://github.com/Raj-Agill21/puzzle-game/assets/114497698/fe4cb2cf-e85f-42fc-97f3-3dbd15b053c2)
+
+![Screenshot 2024-06-22 091222](https://github.com/Raj-Agill21/puzzle-game/assets/114497698/ef056fea-1224-4772-8876-5122d27234b1)
+
+![Screenshot 2024-06-22 091914](https://github.com/Raj-Agill21/puzzle-game/assets/114497698/eaf80786-4946-442a-b7e8-eafe32518f2c)
+
+![Screenshot 2024-06-22 091918](https://github.com/Raj-Agill21/puzzle-game/assets/114497698/d5547b5f-b36b-49f7-a22a-35ad6eee3c23)
+
 > ![Screenshot (100)](https://github.com/user-attachments/assets/f2a127fe-1323-46f8-8e29-b2d798589f29)
 
 
 ---
 
-## 📝 License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
-
-
-Follow on-screen instructions and prompts for level selection and game progression.
